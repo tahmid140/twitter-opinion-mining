@@ -1,0 +1,3 @@
+please download the stanford nlp parser from the link and add the .jar file to project library
+
+http://nlp.stanford.edu/software/corenlp.shtml
